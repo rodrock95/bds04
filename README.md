@@ -1,4 +1,5 @@
 # eventCity
+https://github.com/rodrock95/eventCity/blob/main/LICENSE
 
 # Sobre o projeto
 Nesta aplicação, estamos interessados em implementar diferentes níveis de acesso ao sistema Event-City (vide detalhes no  modelo 
